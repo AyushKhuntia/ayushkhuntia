@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DD5FA&height=200&section=header&text=Ayush%20Khuntia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Developer%20%7C%20Java%20%26%20Spring%20Boot%20%7C%20System%20Design&descAlignY=55&descSize=18)
+![Header](./assets/banner.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E9EF7&center=true&vCenter=true&width=650&lines=Building+scalable+backend+systems;Java+%7C+Spring+Boot+%7C+System+Design;Zero-Trust+Auth+%7C+Zero-Downtime+Migrations;Always+shipping%2C+always+learning)](https://git.io/typing-svg)
 
