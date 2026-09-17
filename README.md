@@ -29,9 +29,13 @@
 
 <div align="center">
 
-![Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,oracle,redis,docker,jenkins,git,github,linux,nginx,aws)
+![Skills](https://skillicons.dev/icons?i=java,python,spring,mysql,postgres,redis,docker,jenkins,git,github,linux,nginx,aws)
 
 </div>
+
+<details>
+<summary>📋 Detailed skill breakdown</summary>
+<br>
 
 | Category | Stack |
 |---|---|
@@ -42,6 +46,8 @@
 | **Databases** | MySQL · PostgreSQL · Oracle · Indexing · Normalization |
 | **DevOps** | Docker · Jenkins (CI/CD) · Maven · Git/GitHub · Linux |
 | **Data & ML** | NumPy · Pandas · Matplotlib · Scikit-learn |
+
+</details>
 
 ---
 
@@ -89,18 +95,20 @@
 
 </details>
 
+> 💡 Update the links above once you add these repos to GitHub — currently they point to your profile since exact repo URLs weren't listed on your resume.
+
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AyushKhuntia&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhuntia&layout=compact&theme=tokyonight&hide_border=true" width="34%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AyushKhuntia&show_icons=true&hide_border=true&count_private=true&title_color=2E9EF7&icon_color=2E9EF7&text_color=24292f&bg_color=ffffff" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushKhuntia&layout=compact&hide_border=true&title_color=2E9EF7&text_color=24292f&bg_color=ffffff" width="34%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKhuntia&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushKhuntia&hide_border=true&background=ffffff&ring=2E9EF7&fire=6DD5FA&currStreakLabel=2E9EF7&currStreakNum=24292f&sideNums=24292f&sideLabels=57606a&dates=768390" width="60%"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=AyushKhuntia&theme=tokyonight&no-frame=true&row=1&column=6" width="80%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=AyushKhuntia&theme=flat&no-frame=true&no-bg=true&row=1&column=6&title_color=2E9EF7&icon_color=6DD5FA&text_color=24292f" width="80%"/>
 
 </div>
 
