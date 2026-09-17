@@ -89,8 +89,6 @@
 
 </details>
 
-> 💡 Update the links above once you add these repos to GitHub — currently they point to your profile since exact repo URLs weren't listed on your resume.
-
 ---
 
 ### 📊 GitHub Stats
